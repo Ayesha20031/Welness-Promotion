@@ -100,6 +100,15 @@ Whether you are looking for guidance on physical fitness, mental resilience, nut
 ![Beauty tip page](https://github.com/Ayesha20031/Welness-Promotion/assets/77922652/d32f45fd-bd5e-446b-a002-4f77f9c530cb)
 
 ![User interaction with chatbot](https://github.com/Ayesha20031/Welness-Promotion/assets/77922652/4a820cc8-76c4-4ae6-ac3d-1668ba50dbb6)
+
+## Demo
+
+
+
+https://github.com/Ayesha20031/Welness-Promotion/assets/77922652/d265ab8a-a88e-4448-a39c-f80933f4cf43
+
+
+
 ## Future Scope
 
 -  Personalized Wellness Plans
